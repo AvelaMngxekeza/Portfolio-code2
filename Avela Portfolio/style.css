@@ -1,0 +1,152 @@
+body{
+    background-color: antiquewhite;
+}
+
+.logo{
+    height:30px;
+    width:0px;
+    position: relative;
+    margin-top: -80px;
+    margin-left: -80px;
+}
+
+.squareblack{
+    background-color: black;
+    height: 1024px;
+    width: 219px;
+    position: relative;
+    margin-left: 1400px;
+}
+
+.about{
+    height: 192px;
+    width: 646px;
+    color: #0000FF;
+    font-family: Inter;
+    font-size: 60px;
+    font-weight: bold;
+    position: relative;
+    left: 700px;
+}
+
+.personal{
+    height: 42px;
+    width: 352px;
+    font-family: Inter;
+    font-size: 35px;
+    font-weight:bold;
+    color: red;
+}
+
+.PNG{
+    height: 42px;
+    width: 352px;
+    font-family: Inter;
+    font-size: 35px;
+    font-weight:bold;
+    color: red;
+    position: relative;
+    top: 350px;
+    left: 700px;
+}
+
+.personalred{
+    height: 645px;
+    width: 687px;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: lighter;
+    position: relative;
+    bottom: 50px;
+}
+
+.personalblack{
+    height: 645px;
+    width: 687px;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: lighter;
+    position: relative;
+    bottom: 250px;
+    left: 700px;
+}
+
+.background{
+    height: 1440px;
+    width: 500px;
+    position: relative;
+    bottom: 1050px;
+    left: -10px;
+    z-index: -200px;
+}
+
+
+.project{
+        height: 192px;
+        width: 646px;
+        color: #0000FF;
+        font-family: Inter;
+        font-size: 60px;
+        font-weight: bold;
+        position: relative;
+        left: 500px;
+        bottom: 700px;
+}
+
+.project1{
+    height: 180px;
+    width: 342px;
+    border-radius: 25px;
+    position: relative;
+    bottom: 700px;
+    left: 300px;
+}
+
+.project2{
+    height: 369px;
+    width: 596px;
+    border-radius: 25px;
+    position: relative;
+    bottom: 850px;
+    left: 700px;
+}
+
+.square12{
+    height: 33px;
+    width: 197px;
+    border-radius: 50px;
+    color: grey;
+    position: relative;
+}
+
+.background{
+    height: 1024px;
+    width: 1440px;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+
+h1{
+    height: 192px;
+    width: 920px;
+    color: #0000FF;
+    font-family: Inter;
+    font-size: 60px;
+    font-weight: bold;
+    position: relative;
+    left: 600px;
+    bottom: 700px; 
+}
+
+.design{
+        height: 192px;
+        width: 646px;
+        color: #0000FF;
+        font-family: Inter;
+        font-size: 60px;
+        font-weight: bold;
+        position: relative;
+        left: 500px;
+        bottom: 700px;
+}
